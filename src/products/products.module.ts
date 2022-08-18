@@ -10,4 +10,4 @@ import { ProductSchema } from "./products.model";
     providers: [ProductService]
 })
 
-export class ProductsModule{}
+export class ProductsModule {}
